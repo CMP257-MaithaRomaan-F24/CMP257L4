@@ -1,0 +1,76 @@
+header{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1rem;
+background-color: #E8C5E5;
+}
+.heading{
+    text-align: center;
+    color: #F19E;
+}
+h1{
+    text-align: center;
+    font-size: 1rem;
+}
+h2{
+    font-size: 0.5rem;
+}
+form label{
+    font-size: 1.5rem;
+}
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #F7F9F2;
+}
+footer{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #F19ED2;
+}
+#u_events {
+    color: #F19ED2;
+}
+.form {
+    color: #2980b9;
+    background-color: #FFF4EA;
+}
+#name {
+    color: #e80707;
+}
+
+fieldset {
+    border: 2px solid #ff0099;
+    border-radius: 10px;
+    padding: 25px;
+    margin-bottom: 20px;
+    background-color: #FFF6EA;
+   
+}
+form div{
+    padding: 0.4rem;
+}
+.button {
+    background: #a6d2f0;
+    background-image: -webkit-linear-gradient(top, #a6d2f0, #2980b9);
+    background-image: -moz-linear-gradient(top, #a6d2f0, #2980b9);
+    background-image: -ms-linear-gradient(top, #a6d2f0, #2980b9);
+    background-image: -o-linear-gradient(top, #ff0099, #2980b9);
+    background-image: linear-gradient(to bottom, #a6d2f0, #2980b9);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    text-shadow: 1px 1px 3px #140114;
+    font-family: Courier New;
+    color: #ffffff;
+    font-size: 1rem;
+    padding: 8px 20px 8px 20px;
+    text-decoration: none;
+  }
+  
+  .button:hover {
+    background: #e80707;
+    background-image: -webkit-linear-gradient(top, #e80707, #960606);
+    background-image: -moz-linear-gradient(top, #e80707, #960606);
+    background-image: -ms-linear-gradient(top, #e80707, #960606);
+    background-image: -o-linear-gradient(top, #e80707, #960606);
+    background-image: linear-gradient(to bottom, #e80707, #960606);
+    text-decoration: none;
+  }
